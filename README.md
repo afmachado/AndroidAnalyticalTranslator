@@ -10,7 +10,7 @@ Screenshot:
 
 The purpose of this application is to bring all the functionalities of the translator to a native application that should run faster than in a browser and in full screen.
 
-Among other advantages from using a browser, a native application will benefit from many android libraries and could bring new functionalities and experiences.
+Among other advantages, a native application will benefit from many android libraries and could bring new functionalities and experiences.
 
 The library “Volley” will be used to connect with Json to the translator.
 
