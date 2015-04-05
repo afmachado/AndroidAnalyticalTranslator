@@ -8,7 +8,7 @@ Screenshot:
 <img src=http://lingoworld.eu/translatorwiki/lib/exe/fetch.php?w=200&tok=646c6a&media=wiki:screeshotandroid.jpg>
 
 
-The purpose of this application is to bring all the functionalities of the translator to a native application that should run faster than in a browser and in full screen.
+The purpose of this application is to bring all the functionalities of the translator to a native application that should run faster than in a browser and adapted to the screen.
 
 Among other advantages, a native application will benefit from many android libraries and could bring new functionalities and experiences.
 
