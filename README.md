@@ -18,7 +18,9 @@ The library “Volley” will be used to connect with Json to the translator.
 
 I'm not discarding to make the application work offline in the future.
 
+<a href="http://lingoworld.eu/lingoworld/translator/assets/android/AnalyticalTranslator.apk">Click here to download the application</a>
 
+Please take into account that the application is not yet functional.
 
 <a href="http://lingoworld.eu/translatorwiki/doku.php?id=androidapp">Click here to see the wiki</a>
 
