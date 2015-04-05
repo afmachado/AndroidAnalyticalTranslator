@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Analytical Translator</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="translate">Click here to translate</string>
+</resources>
