@@ -11,21 +11,13 @@
         android:orientation="vertical"
         android:layout_width="fill_parent"
         android:layout_height="fill_parent"
-        android:weightSum="5"
-        android:layout_alignParentBottom="true"
+        android:weightSum="6"
         android:layout_alignParentRight="true"
         android:layout_alignParentEnd="true"
         android:layout_marginRight="37dp"
         android:layout_marginEnd="37dp"
-        android:layout_marginBottom="41dp">
-
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:textAppearance="?android:attr/textAppearanceMedium"
-            android:text="Analytical translator"
-            android:id="@+id/textView"
-            style="@style/Base.TextAppearance.AppCompat.Large" />
+        android:layout_alignParentBottom="true"
+        android:id="@+id/linearLayout">
 
         <TextView
             android:layout_width="match_parent"
@@ -43,7 +35,7 @@
             android:id="@+id/textView2" />
 
         <EditText
-            android:id="@+id/edittext_spanish"
+            android:id="@+id/edittext_german"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:gravity="top|left"
@@ -94,6 +86,16 @@
             android:scrollbars="vertical"
             android:singleLine="false"
             android:hint="Grammar alerts will be shown here"/>
+
+        <Button
+            android:id="@+id/btnRequest"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="15dp"
+            android:paddingRight="15dp"
+            android:text="Translate"
+            android:enabled="true"
+            android:onClick="onclickactivity" />
 
     </LinearLayout>
 
