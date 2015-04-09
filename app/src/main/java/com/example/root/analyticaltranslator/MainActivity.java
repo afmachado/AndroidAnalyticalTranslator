@@ -27,9 +27,9 @@ public class MainActivity extends Activity {
         txtDisplay = (TextView) findViewById(R.id.edittext_german);
 
         RequestQueue queue = Volley.newRequestQueue(this);
-        String url = "https://lingoworld.eu/lingoworld/translator/website/php/translatorfunction.php";
+        String url = "http://lingoworld.eu/lingoworld/translator/website/php/translatorfunction.php";
 
-        JsonObjectRequest jsObjRequest = new JsonObjectRequest(Request.Method.GET, url, null, new Response.Listener<JSONObject>() {
+        JsonObjectRequest jsObjRequest = new JsonObjectRequest(Request.Method.POST, url, null, new Response.Listener<JSONObject>() {
 
             @Override
             public void onResponse(JSONObject response) {
@@ -52,9 +52,9 @@ public class MainActivity extends Activity {
 
     public void onclickactivity(){
         RequestQueue queue = Volley.newRequestQueue(this);
-        String url = "https://lingoworld.eu/lingoworld/translator/website/php/translatorfunction.php";
+        String url = "http://lingoworld.eu/lingoworld/translator/website/php/translatorfunction.php";
 
-        JsonObjectRequest jsObjRequest = new JsonObjectRequest(Request.Method.GET, url, null, new Response.Listener<JSONObject>() {
+        JsonObjectRequest jsObjRequest = new JsonObjectRequest(Request.Method.POST, url, null, new Response.Listener<JSONObject>() {
 
             @Override
             public void onResponse(JSONObject response) {
