@@ -24,14 +24,14 @@
             android:layout_height="wrap_content"
             android:id="@+id/editText"
             android:layout_gravity="right"
-            android:text="Written by &quot;xpheres&quot;, 2015"
+            android:text="@string/author"
             style="@style/Base.TextAppearance.AppCompat.Small" />
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textAppearance="?android:attr/textAppearanceMedium"
-            android:text="Source sentence (German):"
+            android:text="@string/source_german"
             android:id="@+id/textView2" />
 
         <EditText
@@ -45,13 +45,13 @@
             android:scrollHorizontally="false"
             android:scrollbars="vertical"
             android:singleLine="false"
-            android:hint="Write your sentence here"/>
+            android:hint="@string/write_sentence"/>
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textAppearance="?android:attr/textAppearanceMedium"
-            android:text="Spanish (translation):"
+            android:text="@string/translation_spanish"
             android:id="@+id/textView4" />
 
         <EditText
@@ -65,13 +65,13 @@
             android:scrollHorizontally="false"
             android:scrollbars="vertical"
             android:singleLine="false"
-            android:hint="Translation will be shown here"/>
+            android:hint="@string/translation_shown"/>
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textAppearance="?android:attr/textAppearanceMedium"
-            android:text="Grammar alerts:"
+            android:text="@string/grammar_alerts"
             android:id="@+id/textView4" />
 
         <EditText
@@ -85,7 +85,7 @@
             android:scrollHorizontally="false"
             android:scrollbars="vertical"
             android:singleLine="false"
-            android:hint="Grammar alerts will be shown here"/>
+            android:hint="@string/grammar_alerts_shown"/>
 
         <Button
             android:id="@+id/btnRequest"
@@ -93,7 +93,7 @@
             android:layout_height="wrap_content"
             android:paddingLeft="15dp"
             android:paddingRight="15dp"
-            android:text="Translate"
+            android:text="@string/translate_only"
             android:enabled="true"
             android:onClick="onclickactivity" />
 
