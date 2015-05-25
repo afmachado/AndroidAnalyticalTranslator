@@ -7,6 +7,11 @@ Screenshot:
 
 <img src=http://lingoworld.eu/translatorwiki/lib/exe/fetch.php?w=200&tok=646c6a&media=wiki:screeshotandroid.jpg>
 
+<a href="https://f-droid.org/FDroid.apk">
+<img src=http://lingoworld.eu/lingoworld/banners/Get_it_on_F-Droid.jpg></a> <a href="http://lingoworld.eu/lingoworld/translator/assets/android/AnalyticalTranslator.apk">
+<img src=http://lingoworld.eu/lingoworld/banners/Get_it_on_android.jpg></a>
+
+
 
 The purpose of this application is to bring all the functionalities of the translator to a native application that should run faster than in a browser and adapted to the screen.
 
@@ -17,8 +22,6 @@ The library “Volley” will be used to connect with Json to the translator.
 <a href="https://github.com/mcxiaoke/android-volley">https://github.com/mcxiaoke/android-volley</a>
 
 I'm not discarding to make the application work offline in the future.
-
-<a href="http://lingoworld.eu/lingoworld/translator/assets/android/AnalyticalTranslator.apk">Click here to download the application</a>
 
 Please take into account that the application is not yet functional.
 
