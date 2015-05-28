@@ -50,7 +50,7 @@ public class MainActivity extends Activity {
     }
 
 
-    public void onclickactivity(){
+    public void onclickactivity(View myFavoriteView){
         RequestQueue queue = Volley.newRequestQueue(this);
         String url = "http://lingoworld.eu/lingoworld/translator/website/php/translatorfunction.php";
 
