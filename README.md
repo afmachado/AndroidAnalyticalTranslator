@@ -17,17 +17,9 @@ The purpose of this application is to bring all the functionalities of the trans
 
 Among other advantages, a native application will benefit from many android libraries and could bring new functionalities and experiences.
 
-The library “Volley” will be used to connect with Json to the translator.
-
-<a href="https://github.com/mcxiaoke/android-volley">https://github.com/mcxiaoke/android-volley</a>
-
-I'm not discarding to make the application work offline in the future.
-
 Please take into account that the application is not yet functional.
 
-<a href="http://lingoworld.eu/translatorwiki/doku.php?id=androidapp">Click here to see the wiki</a>
-
-
+<a href="http://lingoworld.eu/at/index.html">AT website</a>
 
 
 Support & donations 
