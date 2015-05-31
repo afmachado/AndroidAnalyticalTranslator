@@ -19,7 +19,7 @@ Among other advantages, a native application will benefit from many android libr
 
 Please take into account that the application is not yet functional.
 
-<a href="http://lingoworld.eu/at/index.html">AT website</a>
+<a href="http://analyticaltranslator.info">AT website</a>
 
 
 Support & donations 
