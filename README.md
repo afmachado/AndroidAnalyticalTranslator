@@ -5,7 +5,7 @@ Android client for the analytical translator
 Screenshot:
 ===========
 
-<img src=http://lingoworld.eu/translatorwiki/lib/exe/fetch.php?w=200&tok=646c6a&media=wiki:screeshotandroid.jpg>
+<img src=http://lingoworld.eu/at/public/images/screenshotandroid.jpg>
 
 <a href="https://f-droid.org/FDroid.apk">
 <img src=http://lingoworld.eu/lingoworld/banners/Get_it_on_F-Droid.jpg></a> <a href="http://lingoworld.eu/lingoworld/translator/assets/android/AnalyticalTranslator.apk">
