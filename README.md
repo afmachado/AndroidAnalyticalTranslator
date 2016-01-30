@@ -11,7 +11,7 @@ Screenshot:
 <img src=http://lingoworld.eu/at//public/images/fdroid.png></a> 
 
 <a href="https://fossdroid.com/a/analytical-translator.html">
-<img src=http://lingoworld.eu/at/public/img/getitonfossdroid.png></a> 
+<img src=http://lingoworld.eu/at/public/imgages/getitonfossdroid.png></a> 
 
 <a href="http://lingoworld.eu/lingoworld/translator/androidtranslator.html" target="_blank">
 <img src="http://lingoworld.eu/at//public/images/analyticalwebapp.png"/></a>
