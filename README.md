@@ -7,6 +7,7 @@ Screenshot:
 
 <img src=http://lingoworld.eu/at/public/images/screenshotandroid.jpg>
 
+<<<<<<< HEAD
 <a href="https://f-droid.org/repository/browse/?fdid=com.example.root.analyticaltranslator">
 <img src=http://lingoworld.eu/lingoworld/banners/Get_it_on_F-Droid.jpg></a> 
 
@@ -17,14 +18,28 @@ Screenshot:
 <img src="{{site.baseurl}}/public/images/analyticalwebapp.png"/></a>
 
 The purpose of this application is to bring all the functionalities of the translator to a native application that should run faster than in a browser and adapted to the screen.
+=======
+<a href="https://f-droid.org/FDroid.apk">
+<img src=http://lingoworld.eu/lingoworld/banners/Get_it_on_F-Droid.jpg></a> <a href="http://lingoworld.eu/lingoworld/translator/assets/android/AnalyticalTranslator.apk">
+<img src=http://lingoworld.eu/lingoworld/banners/Get_it_on_android.jpg></a>
+
+
+
+The purpose of this application is to bring all the functionalities of the translator to a native application that should run faster than in a browser and adapted to the screen.
+
+Among other advantages, a native application will benefit from many android libraries and could bring new functionalities and experiences.
+>>>>>>> 5bc10aa8af4b5529c64133fae499d6418ed56c2d
 
 Among other advantages, a native application will benefit from many android libraries and could bring new functionalities and experiences.
 
+<<<<<<< HEAD
 Please take into account that android app is not yet functional and still
 under development and available as a beta preview release which means is intended for developers and testers.
 
 In the mean while please test <a href="http://lingoworld.eu/lingoworld/translator/androidtranslator.html" target="_blank">the web app</a>. Instructions on how to install ot can be found <a href="http://analyticaltranslator.info/testit/index.html" target="_blank">here.</a>
 
+=======
+>>>>>>> 5bc10aa8af4b5529c64133fae499d6418ed56c2d
 <a href="http://analyticaltranslator.info">AT website</a>
 
 
