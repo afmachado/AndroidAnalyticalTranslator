@@ -27,7 +27,7 @@ public class MainActivity extends Activity {
         txtDisplay = (TextView) findViewById(R.id.edittext_german);
 
         RequestQueue queue = Volley.newRequestQueue(this);
-        String url = "http://lingoworld.eu/lingoworld/translator/website/php/translatorfunction.php";
+        String url = "http://lingoworld.eu/translator/website/php/translatorfunction.php";
 
 //        JsonObjectRequest jsObjRequest = new JsonObjectRequest(Request.Method.POST, url, null, new Response.Listener<JSONObject>() {
 /*
