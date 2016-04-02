@@ -17,9 +17,6 @@ The purpose of this application is to bring all the functionalities of the trans
 
 Among other advantages, a native application will benefit from many android libraries and could bring new functionalities and experiences.
 
-Please take into account that android app is not yet functional and still
-under development and available as a beta preview release which means is intended for developers and testers.
-
 <a href="http://analyticaltranslator.info">AT website</a>
 
 
@@ -35,12 +32,12 @@ Now I want to bring you the possibility to make a donation that may provide me w
 You can support me and this open source project and show your gratitude using the donation links below:
 
 Make a donation by paypal:
-<a href="http://lingoworld.eu/lingoworld/donations/donate.php"><img src="http://lingoworld.eu/lingoworld/donations/paypalbutton.png"></a>
+<a href="http://lingoworld.eu/websites/donations/donate.php"><img src="http://lingoworld.eu/lingoworld/donations/paypalbutton.png"></a>
 
 Make a donation by gratipay:
 <a href="https://gratipay.com/xpheres"><img src="http://lingoworld.eu/lingoworld/donations/gratipay.png"></a>
 
 Make a donation with bitcoins:
- <a href="http://lingoworld.eu/lingoworld/donations/bitaddressqr.png">
- <img src="http://lingoworld.eu/lingoworld/donations/bitaddressqr78.png">
+ <a href="http://lingoworld.eu/websites/donations/bitaddressqr.png">
+ <img src="http://lingoworld.eu/websites/donations/bitaddressqr78.png">
   15WVb3LZWCsdZGjkNFBuELwt3U4zpnSgwa</a>
