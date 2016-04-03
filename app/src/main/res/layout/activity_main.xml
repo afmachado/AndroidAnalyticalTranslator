@@ -72,7 +72,7 @@
             android:layout_height="wrap_content"
             android:textAppearance="?android:attr/textAppearanceMedium"
             android:text="@string/grammar_alerts"
-            android:id="@+id/textView4" />
+            android:id="@+id/textView5" />
 
         <EditText
             android:id="@+id/edittext_messages"
