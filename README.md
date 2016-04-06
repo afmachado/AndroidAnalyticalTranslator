@@ -6,6 +6,7 @@ Screenshot:
 ===========
 
 <img src=http://lingoworld.eu/at/public/images/screenshotandroid.jpg>
+<img src="https://github.com/Swati4star/AndroidAnalyticalTranslator/blob/master/screenshot/translated.png" width="180">
 
 <a href="https://f-droid.org/repository/browse/?fdid=com.example.root.analyticaltranslator">
 <img src=http://lingoworld.eu/at//public/images/fdroid.png></a> 
