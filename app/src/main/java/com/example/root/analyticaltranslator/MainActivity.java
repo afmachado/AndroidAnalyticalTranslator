@@ -41,7 +41,7 @@ public class MainActivity extends Activity {
 
     public void onclickactivity(View myFavoriteView) {
 
-        String url = "http://lingoworld.eu/translator/website/php/translatefunction.php";
+        String url = "http://lingoworld.eu/translator/website/php/translatorfunction.php";
         StringRequest stringRequest = new StringRequest(Request.Method.POST, url,
                 new Response.Listener<String>() {
                     @Override
