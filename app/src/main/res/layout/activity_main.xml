@@ -86,8 +86,7 @@
             android:scrollHorizontally="false"
             android:scrollbars="vertical"
             android:singleLine="false"
-            android:text="Error! Genders are not correct! the article die is wrong, use der instead. because the substantive Mann is masculine and in nominative case.\n
-                                                                                    The correct sentence is:	der Mann"
+            android:text=""
             android:hint="@string/grammar_alerts_shown"/>
 
         <Button
