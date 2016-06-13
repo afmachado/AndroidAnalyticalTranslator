@@ -18,7 +18,7 @@ The purpose of this application is to bring all the functionalities of the trans
 
 Among other advantages, a native application will benefit from many android libraries and could bring new functionalities and experiences.
 
-<a href="http://analyticaltranslator.info">AT website</a>
+<a href="http://lingoworld.eu/at/index.html">AT website</a>
 
 
 Support & donations 
