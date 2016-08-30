@@ -33,10 +33,10 @@ Now I want to bring you the possibility to make a donation that may provide me w
 You can support me and this open source project and show your gratitude using the donation links below:
 
 Make a donation by paypal:
-<a href="http://lingoworld.eu/websites/donations/donate.php"><img src="http://lingoworld.eu/lingoworld/donations/paypalbutton.png"></a>
+<a href="http://lingoworld.eu/websites/donations/donate.php"><img src="http://lingoworld.eu/websites/donations/paypalbutton.png"></a>
 
 Make a donation by gratipay:
-<a href="https://gratipay.com/xpheres"><img src="http://lingoworld.eu/lingoworld/donations/gratipay.png"></a>
+<a href="https://gratipay.com/xpheres"><img src="http://lingoworld.eu/websites/donations/gratipay.png"></a>
 
 Make a donation with bitcoins:
  <a href="http://lingoworld.eu/websites/donations/bitaddressqr.png">
