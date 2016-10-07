@@ -5,8 +5,8 @@ Android client for the analytical translator
 Screenshot:
 ===========
 
-<img src="https://github.com/Swati4star/AndroidAnalyticalTranslator/blob/master/screenshot/translated.png" width="180">
-<img src="https://github.com/Swati4star/AndroidAnalyticalTranslator/blob/master/screenshot/alerts.png" width="180">
+<img src="https://github.com/xpheres/AndroidAnalyticalTranslator/blob/master/screenshot/translated.png" width="180">
+<img src="https://github.com/xpheres/AndroidAnalyticalTranslator/blob/master/screenshot/alerts.png" width="180">
 
 <a href="https://f-droid.org/repository/browse/?fdid=com.example.root.analyticaltranslator">
 <img src=http://lingoworld.eu/at//public/images/fdroid.png></a> 
@@ -33,10 +33,10 @@ Now I want to bring you the possibility to make a donation that may provide me w
 You can support me and this open source project and show your gratitude using the donation links below:
 
 Make a donation by paypal:
-<a href="http://lingoworld.eu/websites/donations/donate.php"><img src="http://lingoworld.eu/lingoworld/donations/paypalbutton.png"></a>
+<a href="http://lingoworld.eu/websites/donations/donate.php"><img src="http://lingoworld.eu/websites/donations/paypalbutton.png"></a>
 
 Make a donation by gratipay:
-<a href="https://gratipay.com/xpheres"><img src="http://lingoworld.eu/lingoworld/donations/gratipay.png"></a>
+<a href="https://gratipay.com/xpheres"><img src="http://lingoworld.eu/websites/donations/gratipay.png"></a>
 
 Make a donation with bitcoins:
  <a href="http://lingoworld.eu/websites/donations/bitaddressqr.png">
