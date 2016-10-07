@@ -41,7 +41,7 @@ public class MainActivity extends Activity {
 
     public void onclickactivity(View myFavoriteView) {
 
-        String url = "http://lingoworld.eu/translator/website/php/translatorfunction.php";
+        String url = "http://130.255.75.240/translator/website/php/translatorfunction.php";
         StringRequest stringRequest = new StringRequest(Request.Method.POST, url,
                 new Response.Listener<String>() {
                     @Override
@@ -77,7 +77,7 @@ public class MainActivity extends Activity {
         RequestQueue requestQueue = Volley.newRequestQueue(this);
         requestQueue.add(stringRequest);
 
-        url = "http://lingoworld.eu/translator/website/php/messagefunction.php";
+        url = "http://130.255.75.240/translator/website/php/messagefunction.php";
          stringRequest = new StringRequest(Request.Method.POST, url,
                 new Response.Listener<String>() {
                     @Override
