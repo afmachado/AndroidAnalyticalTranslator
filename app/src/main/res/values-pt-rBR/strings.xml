@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Analytical Translator</string>
+
+    <string name="action_settings">Configurações</string>
+    <string name="translate">Toque aqui para traduzir</string>
+    <string name="translate_only">Traduzir</string>
+    <string name="author">Escrito por &quot;xpheres&quot;, 2015</string>
+    <string name="source_german">Sentença origem (Alemão):</string>
+    <string name="write_sentence">Escreva a sentença aqui</string>
+    <string name="translation_spanish">Espanhol (tradução):</string>
+    <string name="translation_shown">A tradução será mostrada aqui</string>
+    <string name="grammar_alerts">Alertas de gramática:</string>
+    <string name="grammar_alerts_shown">Alertas de gramática serão mostrados aqui</string>
+</resources>
